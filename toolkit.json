@@ -1,5 +1,16 @@
 {
   "version": "0.3.0",
   "prod": "yes",
-  "dev": "no"
+  "dev": "no",
+  "min": "0.2.0",
+  "url": "https://cdn.summitnodes.net/f/6c812734fde2.zip",
+  "notes": "Sky & Clouds Pack, live preview, add-ons.",
+  "notice": "",
+  "features": {
+    "skyclouds_assets": "yes",
+    "skyclouds": "yes",
+    "visualsettings": "yes",
+    "rules": "yes",
+    "reshade_install": "yes"
+  }
 }
